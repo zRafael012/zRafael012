@@ -2,7 +2,7 @@
 ##### Bem vindo ao meu perfil GitHub
 
 - 👨‍💻 Desenvolvedor FullStack - Jr.
-- 🕵️ Programador Full Stack -Jr com habilidades em React, JavaScript, HTML, CSS, APIs RESTful, Node.js, PostgreSQL, Django, Python e Git e algumas outras tecnologias. Experiência em projetos de front-end e back-end, incluindo desenvolvimento de aplicações de criptomoedas e integrações e criações de APIs REST. Também tenho formação de Design Gráfico e um breve conhecimento de Figma que auxilia na prospecção de novos projetos. 
+- 🕵️ Programador Full Stack -Jr com habilidades em React, JavaScript, HTML, CSS, APIs RESTful, Node.js, PostgreSQL, Django, Python e Git e algumas outras tecnologias. Experiência em projetos de front-end e back-end, incluindo integrações e criações de APIs REST. Também tenho um breve conhecimento de Figma que auxilia na prospecção de novos projetos. 
 
 
 [![zrafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=zrafael012&theme=tokyonight)](https://github.com/zRafael012)
