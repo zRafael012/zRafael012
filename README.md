@@ -29,6 +29,6 @@
   
   ##
     
-  ![Snake animation](https://github.com/zRafael/zRafael/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/zRafael/)
     
 </div>
